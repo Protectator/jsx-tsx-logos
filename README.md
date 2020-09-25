@@ -16,8 +16,11 @@ If you're somewhat like me, you like having correct icons of file formats next t
 
 And if you're *even more* like me, you've been bothered by the fact that there's no specific icon for `.jsx` and `.tsx` files.
 So this is my attempt at making one for these.
+
+Both logos are heavily inspired by [the OpenJSX logo](https://github.com/OpenJSX/logo), except the text is larger here for a better legibility on small formats.
+
+## Usage example
+
 This is how it looks like on my IDE :
 
 ![Screenshot](example.png "Screenshot")
-
-Both logos are heavily inspired by [the OpenJSX logo](https://github.com/OpenJSX/logo), except the text is larger here for a better legibility.
