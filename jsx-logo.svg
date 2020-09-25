@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <g transform="matrix(0.03125,0,0,0.03125,0,0)">
+            <rect x="0" y="0" width="512" height="512" style="fill:rgb(240,219,79);"/>
+        </g>
+        <g id="Shadowless-version" serif:id="Shadowless version" transform="matrix(0.03125,0,0,0.03125,-1.3125,0)">
+            <path d="M421,0L332.704,512L554,512L554,0L421,0Z" style="fill:rgb(138,83,166);"/>
+        </g>
+        <use id="Shadow-version" serif:id="Shadow version" xlink:href="#_Image1" x="9.863" y="0" width="7.166px" height="16px" transform="matrix(0.895688,0,0,1,0,0)"/>
+    </g>
+    <g transform="matrix(1.0479,0,0,1.0479,-2.2297,-0.762671)">
+        <text x="4px" y="14.624px" style="font-family:'NeutraText-Bold', 'Neutra Text';font-weight:700;font-size:6.6px;fill:rgb(50,51,48);">JS</text>
+    </g>
+    <g transform="matrix(1.06176,0,0,1.06176,-1.49366,-0.903247)">
+        <text x="11px" y="14.624px" style="font-family:'NeutraText-Bold', 'Neutra Text';font-weight:700;font-size:6.677px;fill:white;">X</text>
+    </g>
+    <defs>
+        <image id="_Image1" width="8px" height="16px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAYAAAArij59AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAqUlEQVQokX3PsRHCMBAEwLt7MWTMkBCQENAAcglknqEhk1ADjmiGzvCLwNgWtuBDaXX6I7K5XR7Pla3PkgAA7o6QA1OIwQLIHhDdBK51exC1JQSCn1NCAyBVkcR8RmCySAjgDyBa/JswfMFZhACgqdudqH220jcQFVWIz0FVWjAD5QUnoD+gqe8bUUdg2aB/TDsRfcHSBFJjfEKaXScEANGTo/PXooW74w3kJhnrqqouDwAAAABJRU5ErkJggg=="/>
+    </defs>
+</svg>
