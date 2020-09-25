@@ -13,7 +13,7 @@
 If you're somewhat like me, you like having correct icons of file formats next to file lists in your IDE.
 
 And if you're *even more* like me, you've been bothered by the fact that there's no specific icon for `.jsx` and `.tsx` files.
-So this is just my attempt at making one of them.
+So this is my attempt at making one for these.
 This is how it looks like on my IDE :
 
 ![Screenshot](example.png "Screenshot")
