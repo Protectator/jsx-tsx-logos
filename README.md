@@ -21,6 +21,6 @@ Both logos are heavily inspired by [the OpenJSX logo](https://github.com/OpenJSX
 
 ## Usage example
 
-This is how it looks like on my IDE :
+This is how it looks like on my IDE with [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons) :
 
 ![Screenshot](example.png "Screenshot")
