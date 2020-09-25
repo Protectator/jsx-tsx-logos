@@ -1,5 +1,7 @@
 # Unofficial JSX and TSX logos
 
+Here's two unofficial logos for the `.jsx` and `.tsx` file formats :
+
 ## JSX logo
 
 ![JSX logo](jsx-logo-512.png "JSX logo")
